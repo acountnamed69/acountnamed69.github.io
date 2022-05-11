@@ -1,6 +1,7 @@
 body {
  padding: 0px;
- margin: 0px;
+ margin-right: 250px;
+ margin-left: 100px;
  font-size: 20px;
  min-height: 200vh;
  font-family: system-ui, sans-serif;

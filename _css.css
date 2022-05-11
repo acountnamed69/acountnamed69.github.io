@@ -1,4 +1,4 @@
-body { margin: 33px; color:#00f0f0; background: #000000;   font-size:80px; font-family: monospace, sans-serif; }
+body { margin-right: 250px;margin-left: 100px;color:#00f0f0; background: #000000;   font-size:80px; font-family: monospace, sans-serif; }
 h1 { font-size: 20px;}
 h2{font-size: 7px;}
 pre { margin: 3px 0; color: #00f0f0; font-family: system-ui, sans-serif;	text-align: left; }
